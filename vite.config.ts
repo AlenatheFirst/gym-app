@@ -8,7 +8,7 @@ export default defineConfig({
   server: {
     open: true,
   },
-  base: '/vite-deploy/',
+  base: '/gym-app/',
   build: {
     outDir: 'build',
     sourcemap: true,
